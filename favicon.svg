@@ -1,0 +1,7 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="97" fill="#171310" stroke="#d4af37" stroke-width="4"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#8a7233" stroke-width="2"/>
+  <text x="100" y="90" text-anchor="middle" font-family="Vazirmatn, sans-serif" font-weight="800" font-size="34" fill="#e8c96a">سام</text>
+  <text x="100" y="132" text-anchor="middle" font-family="Vazirmatn, sans-serif" font-weight="800" font-size="34" fill="#e8c96a">سنجش</text>
+  <line x1="55" y1="103" x2="145" y2="103" stroke="#8a7233" stroke-width="2"/>
+</svg>
